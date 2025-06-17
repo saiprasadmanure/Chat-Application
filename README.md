@@ -84,3 +84,7 @@ Open multiple tabs or devices to test real-time chat.
 This chat application is a foundational real-time web project that demonstrates the use of Socket.IO for instant communication, which is a core requirement in many modern apps. It provides hands-on experience with event-driven architecture, server-client communication, and basic frontend/backend integration. With minimal setup, it's also a great base to build more advanced chat features like private messaging, typing indicators, or persistent chat rooms.
 
 Let me know if you'd like me to add user authentication, message timestamps, or deploy this app live.
+
+
+#output
+![Image](https://github.com/user-attachments/assets/18c8ea4b-091c-4bd6-8799-4d51fcd9f16f)
